@@ -4,6 +4,6 @@
              xmlns:CustomControls="clr-namespace:CustomStackLayout.CustomControls"
              x:Class="CustomStackLayout.MainPage">
 
-    <CustomControls:CustomStackLayout />
+    <CustomControls:CustomStackLayout/>
 
 </ContentPage>

@@ -16,7 +16,10 @@ namespace CustomStackLayout.CustomControls
 
         private void SetBackground()
         {
-            BackgroundPrideMonth();
+            if(DateTime.Now.Month == 6)
+            {
+                BackgroundPrideMonth();
+            }
         }
         private void BackgroundPrideMonth()
         {
